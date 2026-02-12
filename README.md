@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Techstudio](https://techstudioacademy.com/)
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **System Designs**
 
 - 👯 I’m looking to collaborate on **Fun and exciting projects where I get to learn**
 
