@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obajide028&label=Profile%20views&color=0e75b6&style=flat" alt="obajide028" /> </p>
 
-- 🔭 I’m currently working on [Techstudio](https://vendcliq.com/)
+- 🔭 I’m currently working on [Vendcliq](https://vendcliq.com/)
 
 - 🌱 I’m currently learning **System Designs**
 
