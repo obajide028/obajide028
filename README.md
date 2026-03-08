@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1GFG0IN-BZ2AZFlt7OUsasaNcBIaZqbbNMbNi2Rteb_g/edit?usp=sharing)
 
-- ⚡ Fun fact **Music is how I distress**
+- ⚡ Fun fact **Music is how I distress.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
