@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **obajide028@gmail.com**
 
-- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1GFG0IN-BZ2AZFlt7OUsasaNcBIaZqbbNMbNi2Rteb_g/edit?usp=sharing)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/19d10lDjZf3HbeLPYCt34lKiBs7EhOKBzeLvPFvaOcG8/edit?usp=sharing)
 
 - ⚡ Fun fact **Music is how I distress.**
 
